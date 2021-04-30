@@ -6,6 +6,6 @@ And, run the final model_build file to compare the results. The other two .ipynb
 
 For the sarcasm detection model, 
 Download 'GoogleNews-vectors-negative300.bin' and place it in it's root directory. 
-Also, download the dataset 'tweets-en.csv' from the given link and place it in it's data folder.
+Also, download the dataset 'tweets-en.csv' from the given link - https://drive.google.com/file/d/1rODeW9x7MEovOONN7QtBKjJhxeQFNMxg/view?usp=sharing and place it in it's data folder.
 Run the models_notebook file to see results. 
 
